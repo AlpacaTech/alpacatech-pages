@@ -1,0 +1,6 @@
+baseURL = "https://alpacatech.github.io/"
+languageCode = "en-us"
+title = "libalpaca"
+theme = "docdock"
+publishDir = "public"
+enableEmoji = true
